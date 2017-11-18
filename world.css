@@ -1,0 +1,19 @@
+h1 {
+    color:#00BFFF;
+    text-align: center;
+    font-family:"Cursive";
+    border-style: dashed;
+    background-color: black;
+}
+
+body {
+    background-color: #C0C0C0;
+}
+
+#lookup {
+    padding: 5px 15px;
+}
+
+button{
+    font-size: 10px;
+}
